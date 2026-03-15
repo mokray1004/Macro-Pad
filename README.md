@@ -1,4 +1,6 @@
 # Macro-Pad
-Ye so its a macro pad with 16 keys and a rotary encoder that can turn and be pressed. 
-This is probably going to use the ZMK firmware. 
+So this is a small form factor 16 key macro pad that has a 1:1 aspect ratio along with a rotatable and clickable knob.
+This uses the ZMK firmware.
 Files for materials and other things are in the rest of the repo. You can do whatever you want to it.
+Here is the 3d model of the whole project so you get an image of what it should look like:
+
