@@ -7,8 +7,9 @@ Here is the 3d model of the whole project so you get an image of what it should 
 [3D model](CAD/image.png)
 
 bro the files were here the entire time heres a link to them on the repository:
-[PCB file](CAD/macropad pcb.kicad_pcb)
 
-[PCB schematics](CAD/macropad pcb.kicad_sch)
+[PCB file](CAD/macropadpcb.kicad_pcb)
 
-[Other PCB file](CAD/macropad pcb.kicad_pro)
+[PCB schematics](CAD/macropadpcb.kicad_sch)
+
+[Other PCB file](CAD/macropadpcb.kicad_pro)
