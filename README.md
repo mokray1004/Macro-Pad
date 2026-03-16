@@ -5,3 +5,10 @@ Files for materials and other things are in the rest of the repo. You can do wha
 Here is the 3d model of the whole project so you get an image of what it should look like:
 
 [3D model](CAD/image.png)
+
+bro the files were here the entire time heres a link to them on the repository:
+[PCB file](CAD/macropad pcb.kicad_pcb)
+
+[PCB schematics](CAD/macropad pcb.kicad_sch)
+
+[Other PCB file](CAD/macropad pcb.kicad_pro)
